@@ -12,7 +12,11 @@
     color: white;
     border-radius: 20px;
     border: none;
-    padding-top: -5px;
+    /* padding-top: -5px; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
 }
 .compa1{
     color: gray;
